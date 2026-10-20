@@ -1,0 +1,21 @@
++++ Litania Numerorum, ad usum novitiorum +++
+In nomine Omnissiae.
+
+Excita spiritum NUMERUS.
+Infunde I in NUMERUS.
+
+Dum NUMERUS non maior quam C,
+    Si NUMERUS residuum XV aequat NIHIL,
+        Proclama «FizzBuzz».
+    Aliter si NUMERUS residuum III aequat NIHIL,
+        Proclama «Fizz».
+    Aliter si NUMERUS residuum V aequat NIHIL,
+        Proclama «Buzz».
+    Aliter,
+        Proclama NUMERUS.
+    Amen.
+    Benedic NUMERUS.
+    Laudetur Omnissiah.
+Amen.
+
+Gloria Omnissiae.
